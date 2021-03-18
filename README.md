@@ -21,10 +21,10 @@ Complete the exercises to the best of your ability. There is no right or wrong a
 - Typical questions we look to answer (you don't have to answer all of them but rather use them a guide for data exploration):
   - Is revenue trending up or down: which publishers are driving which change?
   - How do eCPMs vary by the transaction or format type?
-  - Which sales regions prevails?
-  - Is there a specific buyer causing an issue? Who are the top buyers
+  - Which sales regions prevail?
+  - Is there a specific buyer causing an issue? Who are the top buyers?
   - Which transactions types are most popular and are they consistent across all publishers?
-- Pick top 2 most interesting trends and summarize them visually into 1-2 slides (as if you are presenting these findings to the management)
+- Pick top 2 most interesting trends and summarize them visually into 1-2 slides (as if you are presenting these findings to upper management or executive team)
 
 ### Exercise 2
 - Merge DataSet1 and DataSet2
