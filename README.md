@@ -35,3 +35,10 @@ Complete the exercises to the best of your ability. There is no right or wrong a
   - Do some buyers willing to pay more $$ to transact on platform 1 vs 2
 - Pick top 2 most interesting trends across both platforms and summarize them visually into 1-2 slides (as if you are presenting these findings to upper management or executive team)
 
+#### Key for dataset 2:
+|Measure Names| Code |
+|:--- |:---:|
+|Ad Requests  | AR|
+|Gross Spend  | GS|
+|Impressions  | I|
+|Net Revenue  | NR|
