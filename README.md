@@ -1,7 +1,8 @@
 # BI_sample_data
 
 ## Instructions: 
-Complete the exercises to the best of your ability. There is no right or wrong answer, the goal is to explore the data, combine it and identify a few trends or issues.
+Complete the exercises to the best of your ability. There is no right or wrong answer.  The data is constructed in a way that allows identifying a few trends, and a couple of issues.
+
 #### Delivery:
 - Summary: describe your thought process, what you did, think as if you are marking slides for someone else in the team who will have to present them and explain the work and the findings. ~1000 words (pdf)
 - 3-4 slides (presentation), 1-2 slides per exercise showing trend and impact (pdf)
@@ -18,12 +19,12 @@ Complete the exercises to the best of your ability. There is no right or wrong a
 ### Exercise 1
 - explore DataSet1 as a monthly trend
 - Typical questions we look to answer (you don't have to answer all of them but rather use them a guide for data exploration):
-  - Is revenue trending up or down: which publishers is driving the change?
-  - How do eCPMs vary by the transaction type or format type?
-  - Which Sales regions prevail?
+  - Is revenue trending up or down: which publishers are driving which change?
+  - How do eCPMs vary by the transaction or format type?
+  - Which sales regions prevails?
   - Is there a specific buyer causing an issue? Who are the top buyers
   - Which transactions types are most popular and are they consistent across all publishers?
- - Pick top 2 most interesting trends and summarize them visually into 1-2 slides (as if you are presenting these findings to the management)
+- Pick top 2 most interesting trends and summarize them visually into 1-2 slides (as if you are presenting these findings to the management)
 
 ### Exercise 2
 - Merge DataSet1 and DataSet2
@@ -32,4 +33,5 @@ Complete the exercises to the best of your ability. There is no right or wrong a
   - Which platform is better/ worse?
   - Are the buyers/ publishers same?
   - Do some buyers willing to pay more $$ to transact on platform 1 vs 2
- - Pick top 2 most interesting trends across both platforms and summarize them visually into 1-2 slides (as if you are presenting these findings to the management)
+- Pick top 2 most interesting trends across both platforms and summarize them visually into 1-2 slides (as if you are presenting these findings to upper management or executive team)
+
