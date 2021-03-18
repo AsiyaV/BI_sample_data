@@ -2,7 +2,7 @@
 
 ## Instructions: 
 Complete the exercises to the best of your ability. There is no right or wrong answer, the goal is to explore the data, combine it and identify a few trends or issues.
-#### Delivery (send it to Wendy):
+#### Delivery:
 - Summary: describe your thought process, what you did, think as if you are marking slides for someone else in the team who will have to present them and explain the work and the findings. ~1000 words (pdf)
 - 3-4 slides (presentation), 1-2 slides per exercise showing trend and impact (pdf)
 - send to Wendy or follow her instructions
